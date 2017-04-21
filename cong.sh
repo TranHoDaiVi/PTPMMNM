@@ -6,3 +6,4 @@ echo -n "b="
 read b
 c=$(expr $a + $b)
 echo "kq: $a+$b=$c"
+abc
